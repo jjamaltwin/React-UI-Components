@@ -3,19 +3,19 @@
 .logo {
     border-radius: 45%;
     width: 50px; 
+    margin-top: 15%;
 }
 
 h1 {
     margin: 0%;
     font-size: 1rem;
     margin-left: 5%;
-    margin-top: 1%;
-
+    margin-top: 6%;
+  
 }
 
 
 p {
-    
     font-size: .80rem;
     color: #8392a1; 
 }
@@ -23,7 +23,7 @@ p {
 .date {
   width: 200px;  
   margin-left: 4%;
-  margin-top: 3%;
+  margin-top: 17.5%;
   padding: 0% 0% 0% 0%;
  
 }
@@ -34,7 +34,7 @@ p {
     padding: 0% 8% 0% 8%;
     margin-left: 6%;
     margin-top: 0%;
-    border: 2px solid gold;
+   
 
 }
 

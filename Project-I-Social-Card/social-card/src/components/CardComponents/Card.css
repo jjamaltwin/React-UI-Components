@@ -1,8 +1,8 @@
 
 
 img {
-    width: 470px; 
-    margin-left: 15%;
+    width: 500px; 
+    margin-left: 14%;
      
 }
 h5 {
@@ -10,6 +10,7 @@ h5 {
     margin-left: 17%;
     margin-top: 1%;
     font-weight: 900;  
+   
 }
 
 .content-wrapper4 {
@@ -30,8 +31,11 @@ h3 {
 
 .card-wrapper {
     padding: 5%;
-    width: 40%;
-  
-    border: 2px solid purple; 
+    width: 45%;
+    height: 450px;
+    margin-left: 12%;
+    margin-top: 7%;
+    border: 3px solid gray;
+    box-shadow:  5px 10px red;
    
 }
