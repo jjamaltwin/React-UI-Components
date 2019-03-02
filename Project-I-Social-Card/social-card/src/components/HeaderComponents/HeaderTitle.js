@@ -3,10 +3,11 @@ import './Header.css';
 
 
 const HeaderTitle =() => {
-    return<div className="content-wrapper2"> <p className="date">©LambdaSchool 15 jan</p>
+    return<div className="date" id="moment">
     
-    
-    </div>;
+
+
+    </div>
 
 };
 

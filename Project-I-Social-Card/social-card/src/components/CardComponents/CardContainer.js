@@ -3,6 +3,7 @@ import './Card.css';
 import HeaderContainer from '../HeaderComponents/HeaderContainer';
 import CardBanner from './CardBanner';
 import CardContent from './CardContent';
+import Footer from '../FooterComponents/Footer';
 
 
 const CardContainer = () => {
@@ -10,7 +11,8 @@ const CardContainer = () => {
      <a href="https://reactjs.org/"> 
       <HeaderContainer/>
       <CardBanner/>
-      <CardContent/></a>
+      <CardContent/>
+      <Footer/></a>
     </div>
   
   };
