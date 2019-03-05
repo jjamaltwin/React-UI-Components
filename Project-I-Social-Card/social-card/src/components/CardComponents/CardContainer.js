@@ -11,8 +11,8 @@ const CardContainer = () => {
      <a href="https://reactjs.org/"> 
       <HeaderContainer/>
       <CardBanner/>
-      <CardContent/>
-      <Footer/></a>
+      <CardContent/></a>
+      <Footer/>
     </div>
   
   };
